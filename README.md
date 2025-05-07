@@ -44,7 +44,7 @@ This dashboard helps visualize key insights from pizza sales data using **Micros
 |:----:|:----:|---------|
 | SQL Server | ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) | Data cleaning & analysis |
 | Power BI | ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | Data visualization |
-| CSV Dataset | ![CSV](https://img.icons8.com/color/48/000000/csv.png) | Pizza sales data |
+| CSV Dataset | ![CSV](https://img.icons8.com/color/48/000000/csv.png) | Pizza sales data |  
 
 ---
 
