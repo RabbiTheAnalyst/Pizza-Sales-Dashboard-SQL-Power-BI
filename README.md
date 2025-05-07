@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Dashboard using SQL & Power BI 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![SQL Server](https://img.shields.io/badge/Tool-SQL_Server-blue.svg)](https://www.microsoft.com/en-us/sql-server)
-[![Power BI](https://img.shields.io/badge/Tool-Power_BI-orange.svg)](https://powerbi.microsoft.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![SQL Badge](https://img.shields.io/badge/SQL-Data%20Analysis-00758F?logo=microsoftsqlserver)](https://www.microsoft.com/en-us/sql-server)
+[![Power BI](https://img.shields.io/badge/Power_BI-Visualization-F2C811?logo=powerbi)](https://powerbi.microsoft.com/)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RabbiTheAnalyst.pizza-sales-dashboard)
 
 Welcome to my Pizza Sales Analysis project!  
